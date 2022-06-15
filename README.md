@@ -1,6 +1,6 @@
 # Filecoin Total Raw EiB prediction
 
-Just for fun, I tried to predict filecoin storage evolution.
+Just for fun, I tried to predict Filecoin storage evolution.
 
 Knowing that on 2022-06-15 storage is around 17 EiB, when 32 EiB will be reached?
 
