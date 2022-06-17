@@ -1,5 +1,4 @@
-# Filecoin Total Raw EiB prediction
-# *last update on 2002-06-17*
+# Filecoin Total Raw EiB prediction - last update 2002-06-17
 
 Just for fun, I tried to predict Filecoin storage evolution.
 
